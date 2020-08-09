@@ -8,14 +8,6 @@
 - 👯 I’m looking forward to collaborate with other developers
 
 
-### Connect with me / Contact me:
-
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/bidodev/instagram-lookalike/master/doc/img/html.png" />
@@ -32,9 +24,18 @@
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <br>
+<br />
+
+### Contact me:
+
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
 <br>
 <br />
-<br />
+
 
 ---
 [![Simona's github stats](https://github-readme-stats.vercel.app/api?username=SimonaHriscu&count_private=true&show_icons=true&hide=stars&title_color=B99948&icon_color=B99948)](https://github.com/SimonaHriscu/github-readme-stats) [![Simona Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonaHriscu&title_color=B99948)](https://github.com/SimonaHriscu/github-readme-stats)
