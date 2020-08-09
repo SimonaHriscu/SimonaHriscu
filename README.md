@@ -31,7 +31,7 @@
 
 
 ---
-[![Simona's github stats](https://github-readme-stats.vercel.app/api?username=SimonaHriscu&count_private=true&show_icons=true&hide=stars&title_color=B99948&icon_color=B99948)](https://github.com/SimonaHriscu/github-readme-stats) [![Simona Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonaHriscu&title_color=B99948)](https://github.com/SimonaHriscu/github-readme-stats)
+[![Simona's github stats](https://github-readme-stats.vercel.app/api?username=SimonaHriscu&count_private=true&show_icons=true&hide=stars&title_color=b38f28&icon_color=b38f28)](https://github.com/SimonaHriscu/github-readme-stats) [![Simona Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SimonaHriscu&title_color=b38f28)](https://github.com/SimonaHriscu/github-readme-stats)
 
 
 [linkedin]: https://www.linkedin.com/in/simona-hriscu/
