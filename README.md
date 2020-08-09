@@ -1,12 +1,5 @@
 
-
-  <img src="https://media.giphy.com/media/kBf9t5ij3qKCasTBsU/giphy.gif" width="70%">
-
-
-
-- 🌱 I’m currently learning Express, MongoDB
-- 👯 I’m looking forward to collaborate with other developers
-
+<img src="https://media.giphy.com/media/kBf9t5ij3qKCasTBsU/giphy.gif" width="70%">
 
 ### Languages and Tools:
 
