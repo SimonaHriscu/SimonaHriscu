@@ -1,10 +1,10 @@
 
 
-  <img src="https://media.giphy.com/media/Y3dgoYYyqmi0e3cwMT/giphy.gif" width="70%">
+  <img src="https://media.giphy.com/media/kBf9t5ij3qKCasTBsU/giphy.gif" width="70%">
 
 
 
-- 🌱 I’m currently learning Express, MangoDB
+- 🌱 I’m currently learning Express, MongoDB
 - 👯 I’m looking forward to collaborate with other developers
 
 
