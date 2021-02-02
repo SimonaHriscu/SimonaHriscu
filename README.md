@@ -20,14 +20,12 @@
 <img alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <br>
-<br>
-<br>
+
 <img alt="Photoshop" width="32px" src="https://imgur.com/NpYquS6.png" />
 <img alt="AdobeXD" width="32px" src="https://imgur.com/2efVMZW.png" />
 <img alt="Figma" width="32px" src="https://imgur.com/OPIlW8p.png" />
 </p>
 <br>
-<br />
 
 ---
 
